@@ -34,7 +34,7 @@ const SkillSection = () => {
 
                       <Col key={id} xs="6" lg="2">
                         <div className="software-icon-container">
-                            <div className="software-icon"><img src={imageUrl} loading="lazy" alt="imageAlt" /></div>
+                            <div className="software-icon"><img src={imageUrl} loading="lazy" alt={imageAlt} /></div>
                             <div className="software-icon-text">{skill}</div>
                         </div>
                       </Col>  

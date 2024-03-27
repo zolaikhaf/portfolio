@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.d5b05c81.css",
-    "main.js": "/static/js/main.9697d3a0.js",
+    "main.js": "/static/js/main.be96fa1e.js",
     "static/js/453.2e9c476a.chunk.js": "/static/js/453.2e9c476a.chunk.js",
     "static/media/typing.mp4": "/static/media/typing.be2ba161825949956e06.mp4",
     "static/media/me.png": "/static/media/me.4f76bc7bb5f787880859.png",
     "static/media/Zolaikha_Freidah_Resume.pdf": "/static/media/Zolaikha_Freidah_Resume.f922eb800b1cd46b0d78.pdf",
     "index.html": "/index.html",
     "main.d5b05c81.css.map": "/static/css/main.d5b05c81.css.map",
-    "main.9697d3a0.js.map": "/static/js/main.9697d3a0.js.map",
+    "main.be96fa1e.js.map": "/static/js/main.be96fa1e.js.map",
     "453.2e9c476a.chunk.js.map": "/static/js/453.2e9c476a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5b05c81.css",
-    "static/js/main.9697d3a0.js"
+    "static/js/main.be96fa1e.js"
   ]
 }
