@@ -1,0 +1,92 @@
+[
+    {
+        "skill": ".NET",
+        "imageUrl": "../images/skills/dotnet.png",
+        "imageAlt": ".NET Icon"
+    }, 
+    {
+        "skill": "C#",
+        "imageUrl": "../images/skills/csharp.png",
+        "imageAlt": "C# Icon"
+    },
+    {
+        "skill": "MVC",
+        "imageUrl": "../images/skills/mvc2.png",
+        "imageAlt": "MVC Icon"
+    },     
+    {
+        "skill": "AJAX",
+        "imageUrl": "../images/skills/ajax.png",
+        "imageAlt": "AJAX Icon"
+    },
+    {
+        "skill": "SQL",
+        "imageUrl": "../images/skills/sql.png",
+        "imageAlt": "AJAX Icon"
+    },
+    {
+        "skill": "Visual Studio",
+        "imageUrl": "../images/skills/vs.png",
+        "imageAlt": "Visual Studio Icon"
+    },
+    {
+        "skill": "JavaScript",
+        "imageUrl": "../images/skills/js.svg",
+        "imageAlt": "JavaScript Icon"
+    },
+    {
+        "skill": "HTML",
+        "imageUrl": "../images/skills/html.png",
+        "imageAlt": "HTML Icon"
+    },
+    {
+        "skill": "CSS",
+        "imageUrl": "../images/skills/css.png",
+        "imageAlt": "CSS Icon"
+    },
+    {
+        "skill": "jQuery",
+        "imageUrl": "../images/skills/jquery.png",
+        "imageAlt": "jQuery Icon"
+    },
+    {
+        "skill": "Xcode",
+        "imageUrl": "../images/skills/xcode.png",
+        "imageAlt": "Xcode Icon"
+    },
+    {
+        "skill": "Photoshop",
+        "imageUrl": "../images/skills/photoshop.png",
+        "imageAlt": "Photoshop Icon"
+    },
+    {
+        "skill": "React",
+        "imageUrl": "../images/skills/react.webp",
+        "imageAlt": "React Icon"
+    },
+    {
+        "skill": "Azure DevOps",
+        "imageUrl": "../images/skills/azure.png",
+        "imageAlt": "Azure Icon"
+    },
+    {
+        "skill": "GitHub",
+        "imageUrl": "../images/skills/github.png",
+        "imageAlt": "GitHub Icon"
+    },
+    {
+        "skill": "SOAP",
+        "imageUrl": "../images/skills/soap.png",
+        "imageAlt": "SOAP Icon"
+    },
+    {
+        "skill": "REST",
+        "imageUrl": "../images/skills/rest.png",
+        "imageAlt": "REST Icon"
+    },
+    {
+        "skill": "JSON",
+        "imageUrl": "../images/skills/json.png",
+        "imageAlt": "JSON Icon"
+    }
+]

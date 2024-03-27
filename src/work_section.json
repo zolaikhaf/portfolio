@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Helping Users Understand Complex Data",
+        "description": "I am experienced in designing and developing dashboards, re-usable widgets, and other UI components that require showing your end users large amounts of data all at once, helping them perform actions on that data, and highlighting for them KPIs and trends to help them grow their business.",
+        "imageUrl": "../images/work/myWorkDashboards.png",
+        "imageAlt": "Analytics Dashboard"
+    },
+    {
+        "title": "Wizards & Builders",
+        "description": "From admin users setting up a new e-commerce website to end users checking out on that same site, I have experience creating multi-step forms and single-page wizards to help all levels of users feel comfortable from the moment they securely log in to the moment their constituents sign out.",
+        "imageUrl": "../images/work/myWorkWizards.png",
+        "imageAlt": "Wizard and CMS Admin Tool"
+    },    
+    {
+        "title": "Web & Mobile",
+        "description": "Everything is an app nowadays. I have experience creating web apps that are cross-browser and cross-device comptabile. I can also create mobile apps for iOS Apple, Andriod, and Windows devices.",
+        "imageUrl": "../images/work/myWorkApps.png",
+        "imageAlt": "Apple, Google, and Windows Platform Icons"        
+    }    
+]

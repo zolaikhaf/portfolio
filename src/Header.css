@@ -1,0 +1,6 @@
+#HeadingContainer {
+    height: 100vh;
+    position: relative;
+    background: #fff;
+    z-index: 10;
+  }

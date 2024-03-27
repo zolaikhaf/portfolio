@@ -1,0 +1,38 @@
+.navbar {
+  background-color: #fff;
+  box-shadow: none;
+  transition: all 500ms;
+}
+
+  .navbar.is-sticky {
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, .25);
+  }
+
+nav.bg-dark {
+    background-color: #0000005c !important;
+    box-shadow: 0 2px 24px 0 rgb(0 0 0 / 15%);
+    border-bottom: 1px solid #7a5c4085;
+}
+
+  nav.bg-dark .nav-link {
+    font-family: "Marcellus", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #eee !important;    
+  }
+
+.navbar-brand img {
+  position: relative;
+  height: 72px;
+  z-index: 10;
+}
+
+.navbar-toggler {
+  position: relative;
+  z-index: 10;
+  border: none !important;
+}
+
+.navbar-toggler-icon {
+  background-image: url("./logo-icon-black-nobg.png") !important;
+}
