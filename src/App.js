@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useState, useEffect } from "react";
 
 import './App.css';
 import './BootstrapOverrides.css';
@@ -10,18 +10,22 @@ import Footer from "./Footer.js";
 
 function App() {
 
-  const [isLoading, setIsLoading] = React.useState(true);
+  const [isFetching, setIsFetching] = useState(true); 
 
-  const handleLoading = () => {
-  setIsLoading(false);
+  useEffect(() => {
+    setTimeout(function () {
+      setIsFetching(false); 
+    }, 1000);
+  }, []);
+
+  if (isFetching) {
+    return (
+      <Spinner />
+    );
   }
 
-  useEffect(()=>{
-    window.addEventListener("load",handleLoading);
-    return () => window.removeEventListener("load",handleLoading);
-  },[])
+  return (
 
-  return !isLoading ? (
     <div className="App">
 
       <Header />
@@ -32,8 +36,7 @@ function App() {
 
     </div>
 
-  ):(<Spinner />)
-
+  );
 }
 
 export default App;
