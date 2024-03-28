@@ -1,4 +1,3 @@
-
 .spinner-container {
     display: flex;
     background: #616161;
@@ -20,48 +19,48 @@
   animation: grid-animation 1.2s linear infinite;
 }
 .spinner div:nth-child(1) {
-  top: 0px;
-  left: 0px;
+  top: -32px;
+  left: -32px;
   animation-delay: 0s;
 }
 .spinner div:nth-child(2) {
-  top: 0px;
-  left: 24px;
+  top: -32px;
+  left: -8px;
   animation-delay: -0.4s;
 }
 .spinner div:nth-child(3) {
-  top: 0px;
-  left: 48px;
+  top: -32px;
+  left: 16px;
   animation-delay: -0.8s;
 }
 .spinner div:nth-child(4) {
-  top: 24px;
-  left: 0px;
+  top: -8px;
+  left: -32px;
   animation-delay: -0.4s;
 }
 .spinner div:nth-child(5) {
-  top: 24px;
-  left: 24px;
+  top: -8px;
+  left: -8px;
   animation-delay: -0.8s;
 }
 .spinner div:nth-child(6) {
-  top: 24px;
-  left: 48px;
+  top: -8px;
+  left: 16px;
   animation-delay: -1.2s;
 }
 .spinner div:nth-child(7) {
-  top: 48px;
-  left: 0px;
+  top: 16px;
+  left: -32px;
   animation-delay: -0.8s;
 }
 .spinner div:nth-child(8) {
-  top: 48px;
-  left: 24px;
+  top: 16px;
+  left: -8px;
   animation-delay: -1.2s;
 }
 .spinner div:nth-child(9) {
-  top: 48px;
-  left: 48px;
+  top: 16px;
+  left: 16px;
   animation-delay: -1.6s;
 }
 @keyframes grid-animation {
