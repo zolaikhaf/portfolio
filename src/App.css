@@ -1,4 +1,14 @@
 .App {
   font-family: "DM Sans", sans-serif;  
   text-align: center;
+  animation: fade-in 1800ms;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 100;
+  }
 }

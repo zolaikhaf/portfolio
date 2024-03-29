@@ -15,7 +15,7 @@ function App() {
   useEffect(() => {
     setTimeout(function () {
       setIsFetching(false); 
-    }, 1000);
+    }, 1800);
   }, []);
 
   if (isFetching) {

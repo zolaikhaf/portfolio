@@ -3,6 +3,16 @@
     background: #616161;
     width: 100%;
     height: 100vh;
+    animation: fade-out 2250ms;
+}
+
+@keyframes fade-out {
+  from {
+    opacity: 100;
+  }
+  to {
+    opacity: 0;
+  }
 }
 
 .spinner {
