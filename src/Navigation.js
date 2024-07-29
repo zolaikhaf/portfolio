@@ -53,7 +53,7 @@ const Navigation = () => {
           <Nav className="me-auto">
             <Nav.Link href="#MyWork">My Work</Nav.Link>
             <Nav.Link href="#MySkills">My Skills</Nav.Link>
-            <Nav.Link href={myResumePath} target="_blank" className="hidden">My Resume</Nav.Link>
+            <Nav.Link href={myResumePath} target="_blank" hidden="true">My Resume</Nav.Link>
           </Nav>
 
         </Navbar.Collapse>
